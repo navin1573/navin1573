@@ -14,7 +14,6 @@ fields_of_interests:
   ]
   
 currently_learning: [ "Three.js","React","REST APIs","Node.js"]
-hobbies: ["Journaling", "Cinema", "Music", "Art", "Tech"]
 ```
 
 
