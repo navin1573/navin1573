@@ -5,22 +5,7 @@
 
 
 ## **Hi 👋, I am Navin!**  
-```yaml
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Bachelor's in Information Technology (UG)",
-  ]
-fields_of_interests:
-  [
-    "Web Development","UI/UX","Three.js","Spring Boot",
-    "MySQL","Linux","FOSS"
-  ]
-  
-currently_learning: [ "Three.js","React","REST APIs","Node.js"]
 
-
-```
 
 
 ## 🚀 Technologies & Languages  
@@ -28,11 +13,6 @@ currently_learning: [ "Three.js","React","REST APIs","Node.js"]
 
 ## 🛠️ Tools & Platforms  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-
----
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/navinograph?theme=dark&font=Noto%20Sans%20Malayalam&ext=heatmap)
 
 ---
 
